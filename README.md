@@ -44,26 +44,9 @@ Acredito na **comunicação clara e na colaboração** como chaves para o sucess
 
 **Links:**
 
-* [Portfólio](link do seu portfólio)
-* [LinkedIn](link do seu perfil no LinkedIn)
-* [GitHub](link do seu perfil no GitHub)
+* [LinkedIn](https://www.linkedin.com/in/hugo-leon-76275212b/)
+
 
 **Palavras-chave:** Desenvolvedor Full Stack, TypeScript, React, HTML, CSS, SQL, Redux, Docker, Solid, POO, Testes Unitários, Testes de Integração
 
-**Observações:**
-
-* Adapte este modelo às suas necessidades e experiências específicas.
-* Inclua links para seus projetos, portfólio e perfis online relevantes.
-* Use palavras-chave relacionadas às suas habilidades e áreas de interesse para que seu perfil seja facilmente encontrado por recrutadores e clientes em potencial.
-* Mantenha sua bio atualizada com suas últimas realizações e projetos.
-
-**Dicas extras:**
-
-* Você pode adicionar uma imagem de perfil ao seu README para torná-lo mais visualmente atraente.
-* Inclua uma seção "Sobre mim" para compartilhar um pouco mais sobre sua personalidade e seus interesses.
-* Crie uma lista de seus projetos mais recentes ou de maior impacto.
-* Use emojis para adicionar personalidade à sua bio.
-* Mantenha a sua bio concisa e fácil de ler.
-
-**Com um README informativo e atraente, você poderá se destacar como um Desenvolvedor Full Stack de alto nível e atrair oportunidades incríveis!**
 
