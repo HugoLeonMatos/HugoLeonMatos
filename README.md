@@ -1,68 +1,25 @@
-# Olá pessoal 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-## Mais sobre mim
+@@ -20,16 +20,12 @@
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 
-```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
 
-}
-```
-
-## Linguagens e ferramentas
-
-
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-    alt="Logo javascript"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-    alt="Logo visual studio"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-    alt="Logo git"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-    alt="Logo terminal"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-    alt="Logo HTML"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    alt="Logo CSS"/></code>
-
-## Status
-
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
-
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-
-
-[instagram]: https://www.instagram.com/hugo_leon013/
-[linkedin]: https://www.linkedin.com/in/hugo-leon-76275212b/
-
-<br>
-
-## Rede sociais
-
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
