@@ -14,8 +14,7 @@ Com **experiência em diversas tecnologias**, domino desde o desenvolvimento fro
     * HTML
     * CSS
 * **Back-end:**
-  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">        
     * Node.js
     * Express.js
     * SQL
