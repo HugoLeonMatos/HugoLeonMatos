@@ -1,4 +1,6 @@
 Hugo Leon - Full Stack Developer
+Email: hugoleon@outlook.com
+Phone: +55 (13) 99726-0578
 Hello!
 
 I’m a Full Stack Developer passionate about building comprehensive and scalable digital solutions.
